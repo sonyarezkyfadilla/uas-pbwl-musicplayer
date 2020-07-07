@@ -1,0 +1,14 @@
+{
+    "name": "acer/uas",
+    "description": "Ujian Akhir Semester",
+    "type": "project",
+    "require": {
+        "php": "7.3"
+    },
+    "authors": [
+        {
+            "name": "sonyarezkyfadilla",
+            "email": "sonyarezkylbs@gmail.com"
+        }
+    ]
+}
